@@ -1,2 +1,2 @@
-email :
-gitID :
+email : spk77k@gmail.com
+gitID : shin197
